@@ -16,7 +16,7 @@ ms.custom:
 This collection of sample code, components (solutions), and documents can help your Field Service projects with tasks such as customization, configuration, and operation of the platform. The library offers reusable and easy-to-follow resources for Field Service developers and users.  
 
 > [!IMPORTANT]
-> Sample codes, components (solutions), and documents created by the community aren't supported by Microsoft. If you have questions or issues with community tools, contact the tool's publisher.
+> Sample codes, components (solutions), and documents that are created by the community aren't supported by Microsoft. If you have questions or issues with community tools, contact the tool's publisher.
 
 ## Areas
 
